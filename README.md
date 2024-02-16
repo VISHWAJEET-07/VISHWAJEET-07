@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vishwajeet Tyagi</h1>
 <h3 align="center">Weaving code in C++, Python, and JavaScript, I bridge the gap between full-stack web development and innovative DevOps solutions, fueled by a passion to shape the future of technology.</h3>
 
-<img align="right" alt = "Coding" width = "380" height = "300" src =  "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> </img>
+<img align="right" alt = "Coding" width = "380" height = "320" src =  "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> </img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwajeet-07&label=Profile%20views&color=0e75b6&style=flat" alt="vishwajeet-07" /> </p>
 
