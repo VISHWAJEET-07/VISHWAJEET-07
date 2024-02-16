@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **vishwajeet.tyagi.07@gmail.com**
 
-- ⚡ Fun fact **I like to play chess just to beat other's ego! : )**
+- ⚡ Fun fact : **I like to play chess just to beat other's ego! : )**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
