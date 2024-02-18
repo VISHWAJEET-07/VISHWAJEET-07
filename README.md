@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **React, Git, GitHub, DevOps**
 
-- 📫 How to reach me **vishwajeet.tyagi.07@gmail.com**
+- 📫 How to reach me : **vishwajeet.tyagi.07@gmail.com**
 
 - ⚡ Fun fact : **I like to win at chess just to beat other's ego! : )**
 
