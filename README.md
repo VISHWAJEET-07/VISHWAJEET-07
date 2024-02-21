@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **E-commerce React Application**
 
-- 🌱 I’m currently learning **Linux, DevOps Tools [ IAC Tools: Terraform, Ansible ] and Containerization**
+- 🌱 I’m currently learning **Linux, DevOps Tools such as IAC Tools: Terraform, Ansible and Containerization**
 
 - 👨‍💻 All of my projects are available at [https://vishwajeettyagi07portfolio.netlify.app/](https://vishwajeettyagi07portfolio.netlify.app/)
 
